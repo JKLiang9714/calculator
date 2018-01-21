@@ -1,2 +1,2 @@
 # calculator
-A calculator modeled on windows.
+A calculator modeled on Windows.
